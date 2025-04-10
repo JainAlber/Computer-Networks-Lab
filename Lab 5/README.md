@@ -1,4 +1,4 @@
-
+**Subnetting a Class A Network into 4 Subnets**
 
 🧠 Overview
 - This lab demonstrates how to divide a large network (10.0.0.0/24) into smaller subnetworks for better IP address management and traffic segmentation.
