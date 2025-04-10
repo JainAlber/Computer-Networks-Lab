@@ -1,4 +1,4 @@
-**Basic Inter-Network Communication using Routers and Switches**
+**Static Routing between Two LANs using Routers and Switches**
 
 ## 🧠 Overview
 - This lab demonstrates a simple network topology involving two separate LANs interconnected via routers. 
